@@ -15,4 +15,15 @@
   <Project_ID>
     <Signature>UE Proj: v.1</Signature>
   </Project_ID>
+  <Files>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/</File>
+    <File>arrays_string/isunique/READMD.md</File>
+    <File>arrays_string/isunique/sol1.cpp</File>
+    <File>arrays_string/isunique/sol1.py</File>
+  </Files>
+  <Group_Filter>
+    <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/">*.*</OF>
+    <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">*.*</OF>
+  </Group_Filter>
 </PRJ>
