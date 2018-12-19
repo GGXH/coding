@@ -17,13 +17,22 @@
   </Project_ID>
   <Files>
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/</File>
+    <File>arrays_string/checkpermutation/sol1.py</File>
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/</File>
+    <File>arrays_string/URLify/sol1.py</File>
+    <File>arrays_string/URLify/README.md</File>
     <File>arrays_string/isunique/READMD.md</File>
     <File>arrays_string/isunique/sol1.cpp</File>
+    <File>arrays_string/checkpermutation/sol2.py</File>
+    <File>arrays_string/checkpermutation/README.md</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/</File>
     <File>arrays_string/isunique/sol1.py</File>
   </Files>
   <Group_Filter>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">*.*</OF>
+    <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">*.*</OF>
+    <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/">*.*</OF>
   </Group_Filter>
 </PRJ>
