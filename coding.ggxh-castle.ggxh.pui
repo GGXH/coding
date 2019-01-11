@@ -10,26 +10,34 @@
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">
     <Expand>0</Expand>
   </Folder>
+  <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/"/>
   <Project_Information>
-    <Working_Time>32450</Working_Time>
-    <Project_Start>140000003000000014000000120000000B00000076000000020000005F01000000000000DA550000808FFFFFFFFFFFFFB03AE1A8DA55000027</Project_Start>
-    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,0,(0,1))</MDIPerspective>
+    <Working_Time>-3379075982671391</Working_Time>
+    <Project_Start>2100000035000000070000000B0000000000000077000000050000000A0000000000000096550000808FFFFFFFFFFFFFB04A72C596550000FE</Project_Start>
+    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,2,(0,1,2,3))</MDIPerspective>
   </Project_Information>
   <Active_Settings>
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
     <Active_File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</Active_File>
   </Active_Settings>
   <Open_Files>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol1.py</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/sol1.cpp</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</File>
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/sol1.py</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/README.md</File>
   </Open_Files>
+  <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/"/>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/">
     <Expand>1</Expand>
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">
-      <Expand>0</Expand>
+      <Expand>1</Expand>
     </Folder>
   </Folder>
 </PRJ>
