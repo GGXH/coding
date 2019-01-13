@@ -7,6 +7,11 @@
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/">
     <Expand>1</Expand>
   </Folder>
+  <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/oneaway/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/oneaway/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">
     <Expand>0</Expand>
   </Folder>
@@ -22,17 +27,22 @@
     </Folder>
   </Folder>
   <Project_Information>
-    <Working_Time>-2501221158375406</Working_Time>
-    <Project_Start>0D00000035000000100000000C0000000000000077000000060000000B0000000000000038560000808FFFFFFFFFFFFFB03A25273856000041</Project_Start>
-    <MDIPerspective/>
+    <Working_Time>-292878507994871</Working_Time>
+    <Project_Start>3A000000380000000B0000000D0000000000000077000000000000000C0000000000000051560000808FFFFFFFFFFFFFB0EA7E2851560000A4</Project_Start>
+    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,2,(0,1,2))</MDIPerspective>
   </Project_Information>
   <Active_Settings>
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
     <Active_File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</Active_File>
   </Active_Settings>
+  <Open_Files>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/sol1.py</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/README.MD</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/sol2.py</File>
+  </Open_Files>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
-      <Expand>1</Expand>
+      <Expand>0</Expand>
     </Folder>
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/"/>
