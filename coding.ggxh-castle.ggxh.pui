@@ -11,6 +11,16 @@
     <Expand>0</Expand>
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/"/>
+  <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/stringCompression/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/stringCompression/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Project_Information>
     <Working_Time>-2501221158375406</Working_Time>
     <Project_Start>0D00000035000000100000000C0000000000000077000000060000000B0000000000000038560000808FFFFFFFFFFFFFB03A25273856000041</Project_Start>
@@ -31,7 +41,7 @@
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">
-      <Expand>1</Expand>
+      <Expand>0</Expand>
     </Folder>
   </Folder>
 </PRJ>

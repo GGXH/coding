@@ -20,30 +20,43 @@
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/oneaway/</File>
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/</File>
     <File>arrays_string/Palindrome_permutation/sol2.py</File>
+    <File>arrays_string/stringCompression/README.md</File>
+    <File>arrays_string/stringCompression/sol1.py</File>
+    <File>arrays_string/rotateMatrix/README.md</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/</File>
     <File>arrays_string/checkpermutation/sol2.cpp</File>
     <File>arrays_string/checkpermutation/sol1.py</File>
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/</File>
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/</File>
+    <File>arrays_string/rotateMatrix/sol1.py</File>
+    <File>arrays_string/zeroMatrix/sol1.py</File>
     <File>arrays_string/URLify/README.md</File>
     <File>arrays_string/URLify/sol1.py</File>
     <File>arrays_string/Palindrome_permutation/README.md</File>
     <File>arrays_string/isunique/READMD.md</File>
+    <File>arrays_string/zeroMatrix/README.MD</File>
     <File>arrays_string/isunique/sol1.cpp</File>
     <File>arrays_string/Palindrome_permutation/sol1.py</File>
     <File>arrays_string/oneaway/README.md</File>
+    <File>arrays_string/zeroMatrix/sol2.py</File>
     <File>arrays_string/checkpermutation/sol2.py</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/stringCompression/</File>
     <File>arrays_string/checkpermutation/README.md</File>
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/</File>
     <File>arrays_string/isunique/sol1.py</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/rotateMatrix/</File>
     <File>arrays_string/oneaway/sol1.py</File>
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/</File>
   </Files>
   <Group_Filter>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/oneaway/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/">*.*</OF>
+    <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">*.*</OF>
+    <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/stringCompression/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/">*.*</OF>
+    <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/rotateMatrix/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">*.*</OF>
   </Group_Filter>
 </PRJ>
