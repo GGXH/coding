@@ -5,7 +5,12 @@
     <Expand>0</Expand>
   </Folder>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/">
-    <Expand>1</Expand>
+    <Expand>0</Expand>
+  </Folder>
+  <Folder Name="lined_lists/ - /home/ggxh/CS/cracking_coding_interview/lined_lists/sll/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/lined_lists/sll/">
+      <Expand>0</Expand>
+    </Folder>
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/oneaway/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/oneaway/">
@@ -26,20 +31,23 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/sll/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/sll/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Project_Information>
-    <Working_Time>-292878507994871</Working_Time>
-    <Project_Start>3A000000380000000B0000000D0000000000000077000000000000000C0000000000000051560000808FFFFFFFFFFFFFB0EA7E2851560000A4</Project_Start>
-    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,2,(0,1,2))</MDIPerspective>
+    <Working_Time>4470037640792635</Working_Time>
+    <Project_Start>240000001F000000070000000F0000000000000077000000020000000E000000000000003F560000808FFFFFFFFFFFFFB0FA9DF93F56000053</Project_Start>
+    <MDIPerspective/>
   </Project_Information>
+  <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/">
+    <Expand>1</Expand>
+  </Folder>
   <Active_Settings>
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
     <Active_File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</Active_File>
   </Active_Settings>
-  <Open_Files>
-    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/sol1.py</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/README.MD</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/sol2.py</File>
-  </Open_Files>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
       <Expand>0</Expand>
@@ -49,8 +57,21 @@
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/">
     <Expand>1</Expand>
   </Folder>
+  <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/stringRotation/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/stringRotation/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="/home/ggxh/CS/cracking_coding_interview/lined_lists/">
+    <Expand>1</Expand>
+  </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">
+      <Expand>0</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/dll/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/dll/">
       <Expand>0</Expand>
     </Folder>
   </Folder>
