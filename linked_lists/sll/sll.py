@@ -21,6 +21,15 @@ class sll:
     self._last = None
     self._size = 0
     
+  def __str__(self):
+    nd = self.head
+    res = ""
+    while nd:
+      res += str(nd.data)
+      res += ", "
+      nd = nd.next
+    return res
+    
   @property
   def head(self):
     return self._head
@@ -52,7 +61,7 @@ class sll:
       self.last = self.head
     else:
       self.last.next = nn
-      self.last = self.last.next
+      self.last = nn
     self.size += 1
     
   def insertAfter(self, data):
@@ -97,3 +106,4 @@ class sll:
           n.next = n.next.next
           self.size -= 1
           break
+        n = n.next
