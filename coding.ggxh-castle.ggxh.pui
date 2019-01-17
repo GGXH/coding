@@ -25,9 +25,19 @@
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">
     <Expand>0</Expand>
   </Folder>
+  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/"/>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/delete_middle_node/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/delete_middle_node/">
       <Expand>1</Expand>
     </Folder>
   </Folder>
@@ -42,9 +52,9 @@
     </Folder>
   </Folder>
   <Project_Information>
-    <Working_Time>6574674578839509</Working_Time>
-    <Project_Start>260000002600000007000000100000000000000077000000030000000F00000000000000BE550000808FFFFFFFFFFFFFB0CA8083BE55000098</Project_Start>
-    <MDIPerspective/>
+    <Working_Time>2715774883391746</Working_Time>
+    <Project_Start>040000001400000017000000100000000000000077000000030000000F00000000000000FE7F0000808FFFFFFFFFFFFFB09AF751AA550000DF</Project_Start>
+    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,1,(0,1,2))</MDIPerspective>
   </Project_Information>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/">
     <Expand>1</Expand>
@@ -53,6 +63,11 @@
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
     <Active_File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</Active_File>
   </Active_Settings>
+  <Open_Files>
+    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/remove_dups/README.md</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/remove_dups/sol1.py</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/sll/sll.py</File>
+  </Open_Files>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
       <Expand>0</Expand>
