@@ -1,11 +1,20 @@
 class _node:
-  def __init__(self, data, next = None):
+  def __init__(self, data, key, next = None):
     self._data = data
+    self._key = key
     self._next = next
     
   @property
   def data(self):
     return self._data
+    
+  @data.setter
+  def data(self, data):
+    self._data = data
+    
+  @property
+  def key(self):
+    return self._key
     
   @property
   def next(self):
@@ -50,12 +59,12 @@ class sll:
   def size(self):
     return self._size
     
-  def addFirst(self, data):
-    self.head = _node(data, self._head)
+  def addFirst(self, key, data):
+    self.head = _node(data, key, self.head)
     self.size += 1
   
-  def addLast(self, data):
-    nn = _node(data)
+  def addLast(self, key, data):
+    nn = _node(data, key)
     if not self.head:
       self.head = nn
       self.last = self.head
@@ -64,12 +73,12 @@ class sll:
       self.last = nn
     self.size += 1
     
-  def insertAfter(self, data):
+  def insertAfter(self, key1, key2, data):
     s = self.size
     n = self.head
-    nn = _node(data)
+    nn = _node(data, key2)
     while n:
-      if n.data == data:
+      if n.key == key1:
         nn.next = n.next
         n.next = nn
         self.size += 1
@@ -77,17 +86,17 @@ class sll:
       n = n.next
     return s != self.size
       
-  def insertBefore(self, data):
+  def insertBefore(self, key1, key2, data):
     s = self.size
-    nn = _node(data)
-    if self.head.data == data:
+    nn = _node(data, key2)
+    if self.head.key == key1:
       nn.next = self.head
       self.head = nn
       self.size += 1
     else:
       n = self.head
       while n.next:
-        if n.next.data == data:
+        if n.next.key == key1:
           nn.next = n.next
           n.next = nn
           self.size += 1
@@ -95,14 +104,14 @@ class sll:
         n = n.next
     return s != self.size
     
-  def delete(self, data):
-    if self.head.data == data:
+  def delete(self, key):
+    if self.head.key == key:
       self.head = self.head.next
       self.size -= 1
     else:
       n = self.head
       while n.next:
-        if n.next.data == data:
+        if n.next.key == key:
           n.next = n.next.next
           self.size -= 1
           break

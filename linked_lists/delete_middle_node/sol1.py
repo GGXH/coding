@@ -5,6 +5,7 @@ sys.path.append('../')
 from sll import sll
 
 def delete_middle(nd):
+  nd.key = nd.next.key
   nd.data = nd.next.data
   nd.next = nd.next.next
   
@@ -13,8 +14,10 @@ def delete_middle(nd):
 if __name__ == "__main__":
   slinked_list = sll.sll()
   value = [1, 2, 3, 1, 3, 4, 5, 1, 2, 3]
+  key = 0
   for it in value:
-    slinked_list.addLast(it)
+    slinked_list.addLast(key, it)
+    key += 1
     
   print slinked_list.size
   print slinked_list

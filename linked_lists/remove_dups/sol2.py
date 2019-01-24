@@ -9,21 +9,14 @@ def remove_dups(slinked_list):
   
   if not nd:
     return
-  
-  nd_a = nd.next
-  
+
   while nd:
+    nd_a = nd.next
     while nd_a:
       if nd_a.data == nd.data:
-        if nd == slinked_list.head:
-          slinked_list.delete(nd_a.data)
-          nd = slinked_list.head
-          nd_a = nd.next
-          continue
-        else:
-          nd = nd.next
-          slinked_list.delete(nd_a.data)
-          nd_a = nd.next
+        key = nd_a.key
+        nd_a = nd_a.next
+        slinked_list.delete(key)
       else:
         nd_a = nd_a.next
     nd = nd.next
@@ -33,8 +26,10 @@ def remove_dups(slinked_list):
 if __name__ == "__main__":
   slinked_list = sll.sll()
   value = [1, 2, 3, 1, 3, 4, 5, 1, 2, 3]
+  key = 0
   for it in value:
-    slinked_list.addLast(it)
+    slinked_list.addLast(key, it)
+    key += 1
     
   print slinked_list.size
   print slinked_list

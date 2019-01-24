@@ -5,7 +5,7 @@
     <Expand>0</Expand>
   </Folder>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/">
-    <Expand>1</Expand>
+    <Expand>0</Expand>
   </Folder>
   <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/remove_dups/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/remove_dups/">
@@ -52,21 +52,22 @@
     </Folder>
   </Folder>
   <Project_Information>
-    <Working_Time>-3451976231180015</Working_Time>
-    <Project_Start>000000002200000015000000110000000000000077000000040000001000000000000000FD7F0000808FFFFFFFFFFFFFB0FABCD71856000003</Project_Start>
-    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,0,(0,1))</MDIPerspective>
+    <Working_Time>3620533713589691</Working_Time>
+    <Project_Start>10000000190000000C000000170000000000000077000000030000001600000000000000F5550000808FFFFFFFFFFFFFB03AAEEBF5550000FC</Project_Start>
+    <MDIPerspective/>
   </Project_Information>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/">
     <Expand>1</Expand>
+  </Folder>
+  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/partition/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/partition/">
+      <Expand>0</Expand>
+    </Folder>
   </Folder>
   <Active_Settings>
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
     <Active_File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</Active_File>
   </Active_Settings>
-  <Open_Files>
-    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/sll/sll.cpp</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/sll/sll.h</File>
-  </Open_Files>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
       <Expand>0</Expand>
@@ -81,6 +82,11 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/sum_lists/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/sum_lists/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/lined_lists/">
     <Expand>1</Expand>
   </Folder>
@@ -92,6 +98,11 @@
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/">
       <Expand>0</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/palindrome/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/palindrome/">
+      <Expand>1</Expand>
     </Folder>
   </Folder>
   <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/dll/">

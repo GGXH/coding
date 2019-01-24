@@ -21,10 +21,12 @@ def kth_to_last(nd, k):
 if __name__ == "__main__":
   slinked_list = sll.sll()
   value = [1, 2, 3, 1, 3, 4, 5, 1, 2, 3]
+  key = 0
   for it in value:
-    slinked_list.addLast(it)
+    slinked_list.addLast(key, it)
+    key += 1
     
-  print kth_to_last(slinked_list.head, 2)
+  kth_to_last(slinked_list.head, 2)
   
  
  
