@@ -59,6 +59,12 @@ class sll:
   def size(self):
     return self._size
     
+  def getNode(self, key):
+    nd = self.head
+    while nd and nd.key != key:
+      nd = nd.next
+    return nd
+    
   def addFirst(self, key, data):
     self.head = _node(data, key, self.head)
     self.size += 1
@@ -71,6 +77,11 @@ class sll:
     else:
       self.last.next = nn
       self.last = nn
+    self.size += 1
+    
+  def addLastNode(self, nd):
+    self.last.next = nd
+    self.last = nd
     self.size += 1
     
   def insertAfter(self, key1, key2, data):
