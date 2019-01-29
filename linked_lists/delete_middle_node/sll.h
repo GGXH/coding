@@ -9,6 +9,8 @@ class node {
   node* next() { return d_next; }
   int data() { return d_data; }
   int key() { return d_key; }
+  void setData(int d) { d_data = d; }
+  void setKey(int k) { d_key = k; }
   void setNext(node* nn) { d_next = nn; }
 
  private:
