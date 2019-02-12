@@ -4,6 +4,11 @@
   <Folder Name="">
     <Expand>0</Expand>
   </Folder>
+  <Folder Name="stacks_queues/ - /home/ggxh/CS/cracking_coding_interview/stacks_queues/three_in_one/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/three_in_one/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/">
     <Expand>0</Expand>
   </Folder>
@@ -36,6 +41,9 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/">
+    <Expand>1</Expand>
+  </Folder>
   <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/delete_middle_node/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/delete_middle_node/">
       <Expand>1</Expand>
@@ -57,12 +65,12 @@
     </Folder>
   </Folder>
   <Project_Information>
-    <Working_Time>-71080116500937</Working_Time>
-    <Project_Start>2200000008000000140000001C0000000000000077000000010000001B000000000000000A560000808FFFFFFFFFFFFFB0AA1CDC0A56000008</Project_Start>
-    <MDIPerspective/>
+    <Working_Time>7392829217724867</Working_Time>
+    <Project_Start>0000000006000000150000000B0000000100000077000000010000002900000000000000CD550000808FFFFFFFFFFFFFB02AFAC4CD550000AD</Project_Start>
+    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,1,(0,1))</MDIPerspective>
   </Project_Information>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/">
-    <Expand>1</Expand>
+    <Expand>0</Expand>
   </Folder>
   <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/partition/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/partition/">
@@ -78,6 +86,10 @@
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
     <Active_File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</Active_File>
   </Active_Settings>
+  <Open_Files>
+    <File>/home/ggxh/CS/cracking_coding_interview/stacks_queues/three_in_one/sol2.py</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/stacks_queues/three_in_one/README.md</File>
+  </Open_Files>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
       <Expand>0</Expand>
