@@ -22,6 +22,9 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/">
+    <Expand>1</Expand>
+  </Folder>
   <Folder Name="lined_lists/ - /home/ggxh/CS/cracking_coding_interview/lined_lists/sll/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/lined_lists/sll/">
       <Expand>0</Expand>
@@ -35,14 +38,14 @@
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">
     <Expand>0</Expand>
   </Folder>
-  <Folder Name="stacks_queues/ - /home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
-    <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
-      <Expand>1</Expand>
-    </Folder>
-  </Folder>
   <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
       <Expand>0</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="stacks_queues/ - /home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
+      <Expand>1</Expand>
     </Folder>
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/"/>
@@ -74,6 +77,11 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/route_between_nodes/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/route_between_nodes/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/loop_detect/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/loop_detect/">
       <Expand>0</Expand>
@@ -84,10 +92,15 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/minimal_tree/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/minimal_tree/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Project_Information>
-    <Working_Time>393089026134587</Working_Time>
-    <Project_Start>1A000000210000000A000000110000000100000077000000000000002F000000000000004A560000808FFFFFFFFFFFFFB0AAF5904A56000025</Project_Start>
-    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,1,(0,1,2,3,4,5))</MDIPerspective>
+    <Working_Time>-5278799591082583</Working_Time>
+    <Project_Start>1B0000002F000000140000001200000001000000770000000100000030000000000000006C550000808FFFFFFFFFFFFFB05A816E6C5500009D</Project_Start>
+    <MDIPerspective/>
   </Project_Information>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/">
     <Expand>1</Expand>
@@ -111,14 +124,6 @@
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
     <Active_File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</Active_File>
   </Active_Settings>
-  <Open_Files>
-    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/sum_lists/sll.cpp</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/intersection/sol1.cpp</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/intersection/sll.cpp</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/sum_lists/sll.h</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/intersection/README.md</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/palindrome/sol1.cpp</File>
-  </Open_Files>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
       <Expand>0</Expand>
@@ -127,6 +132,11 @@
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/"/>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/">
     <Expand>1</Expand>
+  </Folder>
+  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/list_of_depths/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/list_of_depths/">
+      <Expand>1</Expand>
+    </Folder>
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/stringRotation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/stringRotation/">

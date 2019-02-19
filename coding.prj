@@ -18,12 +18,14 @@
   </Project_ID>
   <Files>
     <File>/home/ggxh/CS/cracking_coding_interview/arrays_string/</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/</File>
     <File>/home/ggxh/CS/cracking_coding_interview/stacks_queues/</File>
     <File>/home/ggxh/CS/cracking_coding_interview/linked_lists/</File>
   </Files>
   <Group_Filter>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/oneaway/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/">*.*</OF>
+    <OF Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/zeroMatrix/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">*.*</OF>
     <OF Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/">*.*</OF>

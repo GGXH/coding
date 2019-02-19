@@ -103,9 +103,3 @@ class AnimalShelter:
       self._beforeDog = nd
      elif type == "cat":
       self._beoferCat = nd
-             
-             
-             
-             
-             
-             
