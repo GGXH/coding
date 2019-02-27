@@ -38,14 +38,14 @@
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">
     <Expand>0</Expand>
   </Folder>
-  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
-    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
-      <Expand>0</Expand>
-    </Folder>
-  </Folder>
   <Folder Name="stacks_queues/ - /home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
       <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
+      <Expand>0</Expand>
     </Folder>
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/"/>
@@ -60,7 +60,7 @@
     </Folder>
   </Folder>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/">
-    <Expand>1</Expand>
+    <Expand>0</Expand>
   </Folder>
   <Folder Name="stacks_queues/ - /home/ggxh/CS/cracking_coding_interview/stacks_queues/animal_shelter/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/animal_shelter/">
@@ -98,12 +98,17 @@
     </Folder>
   </Folder>
   <Project_Information>
-    <Working_Time>-5278799591082583</Working_Time>
-    <Project_Start>1B0000002F000000140000001200000001000000770000000100000030000000000000006C550000808FFFFFFFFFFFFFB05A816E6C5500009D</Project_Start>
-    <MDIPerspective/>
+    <Working_Time>-7033109021852335</Working_Time>
+    <Project_Start>31000000100000000D0000001B0000000100000077000000030000003900000000000000B0550000808FFFFFFFFFFFFFB01AC59BB05500005A</Project_Start>
+    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,1,(0,1,2,3,4,5))</MDIPerspective>
   </Project_Information>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/">
     <Expand>1</Expand>
+  </Folder>
+  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/validBST/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/validBST/">
+      <Expand>1</Expand>
+    </Folder>
   </Folder>
   <Folder Name="stacks_queues/ - /home/ggxh/CS/cracking_coding_interview/stacks_queues/sort_stack/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/sort_stack/">
@@ -124,6 +129,14 @@
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
     <Active_File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</Active_File>
   </Active_Settings>
+  <Open_Files>
+    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/minimal_tree/README.md</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/list_of_depths/sol1.py</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/route_between_nodes/sol1.py</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/route_between_nodes/README.md</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/list_of_depths/README.md</File>
+    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/minimal_tree/sol1.py</File>
+  </Open_Files>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
       <Expand>0</Expand>
@@ -140,6 +153,11 @@
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/stringRotation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/stringRotation/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/checkbalanced/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/checkbalanced/">
       <Expand>1</Expand>
     </Folder>
   </Folder>
