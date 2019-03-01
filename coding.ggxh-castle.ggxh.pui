@@ -38,14 +38,14 @@
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/">
     <Expand>0</Expand>
   </Folder>
-  <Folder Name="stacks_queues/ - /home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
-    <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
-      <Expand>1</Expand>
-    </Folder>
-  </Folder>
   <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/return_kth_to_last/">
       <Expand>0</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="stacks_queues/ - /home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/stacks_queues/stack_of_plates/">
+      <Expand>1</Expand>
     </Folder>
   </Folder>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/"/>
@@ -97,13 +97,18 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/first_common_ancestor/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/first_common_ancestor/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Project_Information>
-    <Working_Time>-7033109021852335</Working_Time>
-    <Project_Start>31000000100000000D0000001B0000000100000077000000030000003900000000000000B0550000808FFFFFFFFFFFFFB01AC59BB05500005A</Project_Start>
-    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,1,(0,1,2,3,4,5))</MDIPerspective>
+    <Working_Time>8187134534846004</Working_Time>
+    <Project_Start>070000001E000000160000001C0000000100000077000000040000003A0000000000000090550000808FFFFFFFFFFFFFB02AB04290550000AC</Project_Start>
+    <MDIPerspective/>
   </Project_Information>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/">
-    <Expand>1</Expand>
+    <Expand>0</Expand>
   </Folder>
   <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/validBST/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/validBST/">
@@ -125,18 +130,15 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/successor/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/successor/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Active_Settings>
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
     <Active_File>/home/ggxh/CS/cracking_coding_interview/arrays_string/checkpermutation/sol2.py</Active_File>
   </Active_Settings>
-  <Open_Files>
-    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/minimal_tree/README.md</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/list_of_depths/sol1.py</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/route_between_nodes/sol1.py</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/route_between_nodes/README.md</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/list_of_depths/README.md</File>
-    <File>/home/ggxh/CS/cracking_coding_interview/tree_graphs/minimal_tree/sol1.py</File>
-  </Open_Files>
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/Palindrome_permutation/">
       <Expand>0</Expand>
@@ -145,6 +147,11 @@
   <Folder Name="arrays_string/ - /home/ggxh/CS/cracking_coding_interview/arrays_string/isunique/"/>
   <Folder Name="/home/ggxh/CS/cracking_coding_interview/arrays_string/URLify/">
     <Expand>1</Expand>
+  </Folder>
+  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/build_order/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/build_order/">
+      <Expand>1</Expand>
+    </Folder>
   </Folder>
   <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/list_of_depths/">
     <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/list_of_depths/">
@@ -156,13 +163,13 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
-  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/checkbalanced/">
-    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/checkbalanced/">
+  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/sum_lists/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/sum_lists/">
       <Expand>1</Expand>
     </Folder>
   </Folder>
-  <Folder Name="linked_lists/ - /home/ggxh/CS/cracking_coding_interview/linked_lists/sum_lists/">
-    <Folder Name="/home/ggxh/CS/cracking_coding_interview/linked_lists/sum_lists/">
+  <Folder Name="tree_graphs/ - /home/ggxh/CS/cracking_coding_interview/tree_graphs/checkbalanced/">
+    <Folder Name="/home/ggxh/CS/cracking_coding_interview/tree_graphs/checkbalanced/">
       <Expand>1</Expand>
     </Folder>
   </Folder>
