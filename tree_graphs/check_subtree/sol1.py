@@ -33,8 +33,8 @@ class node:
   @left.setter
   def left(self, left):
     self._left = left
-    
-    
+
+
 def minimal_tree(arr):
   if len(arr) == 0:
     return None
@@ -47,6 +47,30 @@ def minimal_tree(arr):
   nd.left = minimal_tree(arr[:mid])
   nd.right = minimal_tree(arr[mid+1:])
   return nd
+
+def isSubtree(nd1, nd2):
+  if nd2 is None:
+    return True
+    
+  if nd1 is None:
+    return False
+    
+  if nd1.key == nd2.key:
+    return isSameTree(nd1, nd2)
+    
+  return isSubtree(nd1.left, nd2) or isSubtree(nd1.right, nd2)
+  
+def isSameTree(nd1, nd2):
+  if nd1 is None and nd2 is None:
+    return True
+  
+  if nd1 is None or nd2 is None:
+    return False
+    
+  if nd1.key != nd2.key:
+    return False
+    
+  return isSameTree(nd1.left, nd2.left) and isSameTree(nd1.right, nd2.right)
   
   
 if __name__ == "__main__":
@@ -54,7 +78,8 @@ if __name__ == "__main__":
   
   nd = minimal_tree(data)
   
-  print nd
+  subnd = node(1)
+  subnd1 = node(0)
+  subnd.left = subnd1
   
-  
-  
+  print isSubtree(nd, subnd)
